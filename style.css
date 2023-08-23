@@ -29,6 +29,9 @@ body {
     font-size: 30px;
     font-family: 'Playfair display,';
 }
+.txt {
+    margin-top: px;
+}
 .right {
     width: 55%;
     padding-top: 30px;
