@@ -6,7 +6,7 @@ body {
     background-color: whitesmoke;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    min-height: 100vh;
 }
 .container {
     background-color: white;
