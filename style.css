@@ -128,7 +128,6 @@ textarea {
     text-decoration: none;
     width: 222px;
     height: 40px;
-    padding: 10px 15px;
     color: white;
     border: 1px solid #086DB8;
     background-color: #086DB8;
@@ -136,4 +135,5 @@ textarea {
     border-radius: 10px 0px 10px 0px;
     line-height: 23.99px;
     font-family: 'Playfair Display', sans-serif;
+    text-align: center;
 }
