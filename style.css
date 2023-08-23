@@ -76,6 +76,7 @@ p.sub {
 .fname input {
     border: 1px solid black;
     border-radius: 4px;
+    height: 40px;
 }
 .lname {
     width: 45%;
