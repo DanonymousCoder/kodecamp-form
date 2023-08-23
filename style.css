@@ -15,4 +15,5 @@ body {
     height: 700px;
     display: flex;
     gap: 0.5rem;
+    background-image: url('./Group\ 7.png');
 }
