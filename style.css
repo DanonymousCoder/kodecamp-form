@@ -111,6 +111,8 @@ p.sub {
 }
 .info {
     margin-top: 20px;
+    display: flex;
+    flex-direction: column;
 }
 .info label {
     font-size: 18px;
