@@ -147,17 +147,15 @@ textarea {
     font-family: 'Playfair Display', sans-serif;
     text-align: center;
 }
-#input-container {
+/* Add this CSS */
+.input-with-arrow {
     position: relative;
-  }
-  
-  #input-container input[type="text"] {
-    padding-right: 30px; /* Add space for the arrow */
-  }
-#input-container::after {
-    content: url('./Polygon\ 2.png'); /* Unicode arrow character (→) */
+}
+
+.arrow-icon {
     position: absolute;
     top: 50%;
-    right: 10px; /* Adjust the position as needed */
+    right: 10px;
     transform: translateY(-50%);
-  }
+    pointer-events: none;
+}
