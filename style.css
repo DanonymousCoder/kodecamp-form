@@ -147,14 +147,14 @@ textarea {
     font-family: 'Playfair Display', sans-serif;
     text-align: center;
 }
-.input-container {
+#input-container {
     position: relative;
   }
   
-  .input-container input[type="text"] {
+  #input-container input[type="text"] {
     padding-right: 30px; /* Add space for the arrow */
   }
-.input-container::after {
+#input-container::after {
     content: url('./Polygon\ 2.png'); /* Unicode arrow character (→) */
     position: absolute;
     top: 50%;
