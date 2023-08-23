@@ -9,4 +9,5 @@ body {
 .container {
     background-color: white;
     position: absolute;
+    top: 50%;
 }
