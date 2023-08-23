@@ -21,6 +21,11 @@ body {
     background-repeat: no-repeat;
     width: 40%;
 }
+.img {
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
 img {
     display: flex;
     justify-content: flex-end;
