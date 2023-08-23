@@ -126,6 +126,7 @@ textarea {
     border-radius: 4px;
     height: 40px;
     margin-bottom: 35px;
+    width: 564px;
 }
 .button {
     display: flex;
