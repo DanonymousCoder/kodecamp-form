@@ -33,6 +33,9 @@ body {
 .txt {
     margin-top: 352px;
 }
+p.head {
+    font-family: 'Poppins';
+}
 .right {
     width: 55%;
     padding-top: 30px;
