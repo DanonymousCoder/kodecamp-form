@@ -22,9 +22,8 @@ body {
     width: 40%;
 }
 .right {
-    width: 50%;
+    width: 60%;
     padding-top: 30px;
-    padding-right: 20px;
 }
 .img {
     display: flex;
