@@ -106,6 +106,12 @@ p.sub {
 .info {
     margin-top: 30px;
 }
+.info label {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.99px;
+    font-family: 'Playfair Display', sans-serif;
+}
 textarea {
     border: 1px solid black;
     border-radius: 4px;
