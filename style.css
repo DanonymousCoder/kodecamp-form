@@ -67,6 +67,9 @@ p.sub {
 .fname {
     width: 45%;
 }
+.fname label {
+
+}
 .lname {
     width: 45%;
 }
