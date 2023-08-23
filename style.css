@@ -54,7 +54,7 @@ p.sub {
     justify-content: flex-end;
     align-self: flex-end;
 }
-.sign_up {
+.sign_up  p {
     font-family: 'Fairplay display';
     font-size: 30px;
     line-height: 39.99px;
