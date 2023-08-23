@@ -63,3 +63,6 @@ p.sub {
 .name {
     display: flex;
 }
+.fname {
+    width: 45%;
+}
