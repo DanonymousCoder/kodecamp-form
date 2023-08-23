@@ -103,6 +103,12 @@ p.sub {
     height: 40px;
     width: 277px;
 }
+.fname select {
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 43px;
+    width: 280px;
+}
 .lname select {
     border: 1px solid black;
     border-radius: 4px;
