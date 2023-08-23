@@ -68,6 +68,9 @@ p.sub {
 }
 .fname {
     width: 40%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
 }
 .fname label {
     font-size: 18px;
