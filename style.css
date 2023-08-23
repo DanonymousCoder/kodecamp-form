@@ -122,6 +122,7 @@ textarea {
 .btn {
     text-decoration: none;
     width: 222px;
+    height: 40px;
     border: 1px solid #086DB8;
     background-color: #086DB8;
 }
