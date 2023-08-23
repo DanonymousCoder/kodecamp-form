@@ -43,7 +43,7 @@ p.sub {
     font-weight: 700;
     font-size: 20px;
     line-height: 26.66px;
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', sans-serif;
 }
 .right {
     width: 50%;
