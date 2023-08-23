@@ -13,4 +13,5 @@ body {
     background-color: white;
     width: 1152px;
     height: 700px;
+    display: flex;
 }
