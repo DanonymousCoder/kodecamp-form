@@ -73,6 +73,9 @@ p.sub {
     font-weight: 700;
     line-height: 23.99px;
 }
+.fname input {
+    border: 1px solid black;
+}
 .lname {
     width: 45%;
 }
