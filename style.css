@@ -27,7 +27,7 @@ body {
     margin-top: 39px;
     font-weight: 700;
     font-size: 30px;
-    font-family: 'Playfair display,';
+    font-family: 'Playfair display', sans-serif;
     line-height: 39.99px;
 }
 .txt {
