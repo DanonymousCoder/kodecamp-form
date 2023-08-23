@@ -103,6 +103,9 @@ p.sub {
     height: 43px;
     width: 280px;
 }
+.info {
+    margin-top: 30px;
+}
 textarea {
     border: 1px solid black;
     border-radius: 4px;
