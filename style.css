@@ -57,7 +57,6 @@ p.sub {
 form {
     display: flex;
     flex-direction: column;
-    align-self: flex-end;
 }
 .sign_up {
     font-family: 'Fairplay display';
