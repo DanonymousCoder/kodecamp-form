@@ -62,7 +62,7 @@ p.sub {
 }
 .name {
     display: flex;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 .fname {
     width: 45%;
