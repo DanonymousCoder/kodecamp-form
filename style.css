@@ -8,4 +8,5 @@ body {
 }
 .container {
     background-color: white;
+    position: absolute;
 }
