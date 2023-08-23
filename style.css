@@ -147,14 +147,5 @@ textarea {
     font-family: 'Playfair Display', sans-serif;
     text-align: center;
 }
-/* Add this CSS */
-.input-with-arrow i {
-    position: absolute;
-}
-.input-with-arrow {
-    width: 100%;
-    margin-bottom: 10px;
-}
-.icon img {
-    padding: 50px;
+
 }
