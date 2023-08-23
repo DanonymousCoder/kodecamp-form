@@ -147,3 +147,10 @@ textarea {
     font-family: 'Playfair Display', sans-serif;
     text-align: center;
 }
+.input-container::after {
+    content: url('./Polygon\ 2.png'); /* Unicode arrow character (→) */
+    position: absolute;
+    top: 50%;
+    right: 10px; /* Adjust the position as needed */
+    transform: translateY(-50%);
+  }
