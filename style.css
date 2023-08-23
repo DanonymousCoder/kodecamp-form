@@ -35,6 +35,7 @@ body {
 }
 p.head {
     font-family: 'Poppins';
+    font-weight: 700;
 }
 .right {
     width: 55%;
