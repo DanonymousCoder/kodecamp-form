@@ -110,10 +110,7 @@ p.sub {
     width: 280px;
 }
 .info {
-    margin-top: 10px;
-    display: flex;
-    flex-direction: column;
-    gap: 5px; 
+    margin-top: 30px;
 }
 .info label {
     font-size: 18px;
