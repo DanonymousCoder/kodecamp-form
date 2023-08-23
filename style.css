@@ -148,14 +148,9 @@ textarea {
     text-align: center;
 }
 /* Add this CSS */
-.input-with-arrow {
-    position: relative;
-}
-
-.arrow-icon {
+.input-with-arrow i {
     position: absolute;
-    top: 50%;
-    right: 10px;
-    transform: translateY(-50%);
-    pointer-events: none;
+}
+.icon img {
+    padding: 50px;
 }
