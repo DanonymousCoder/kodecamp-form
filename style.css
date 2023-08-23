@@ -87,6 +87,9 @@ p.sub {
 }
 .lname {
     width: 40%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
 }
 .lname label {
     font-size: 18px;
