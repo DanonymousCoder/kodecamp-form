@@ -4,6 +4,7 @@
 }
 body {
     background-color: whitesmoke;
+    position: relative;
 }
 .container {
     background-color: white;
