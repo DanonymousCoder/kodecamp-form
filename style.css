@@ -41,6 +41,7 @@ p.head {
 }
 p.sub {
     font-weight: 700;
+    font-size: 20px;
 }
 .right {
     width: 55%;
