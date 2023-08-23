@@ -111,9 +111,11 @@ p.sub {
     font-weight: 700;
     line-height: 23.99px;
     font-family: 'Playfair Display', sans-serif;
+    margin-bottom: 50px;
 }
 textarea {
     border: 1px solid black;
     border-radius: 4px;
     height: 40px;
+    margin-bottom: 50px;
 }
