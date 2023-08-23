@@ -121,5 +121,6 @@ textarea {
 }
 .btn {
     text-decoration: none;
-    padding: 10px;
+    width: 222px;
+    border: 1px solid #086DB8
 }
