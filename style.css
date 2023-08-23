@@ -69,6 +69,7 @@ p.sub {
 }
 .fname label {
     font-size: 18px;
+    line-height: 23.99px;
 }
 .lname {
     width: 45%;
