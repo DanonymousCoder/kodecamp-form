@@ -67,7 +67,7 @@ p.sub {
     gap: 1rem;
 }
 .fname {
-    width: 45%;
+    width: 40%;
 }
 .fname label {
     font-size: 18px;
@@ -81,7 +81,7 @@ p.sub {
     width: 277px;
 }
 .lname {
-    width: 45%;
+    width: 40%;
 }
 .lname label {
     font-size: 18px;
