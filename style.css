@@ -60,3 +60,6 @@ p.sub {
     line-height: 39.99px;
     font-weight: 700;
 }
+.name {
+    display: flex;
+}
