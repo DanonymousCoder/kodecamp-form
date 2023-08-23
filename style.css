@@ -6,6 +6,7 @@ body {
     background-color: whitesmoke;
     position: relative;
     display: flex;
+    align-items: center;
 }
 .container {
     background-color: white;
