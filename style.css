@@ -59,6 +59,7 @@ p.sub {
     font-size: 30px;
     line-height: 39.99px;
     font-weight: 700;
+    color:#086DB8;
 }
 .name {
     display: flex;
