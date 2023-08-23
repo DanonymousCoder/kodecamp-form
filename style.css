@@ -21,3 +21,7 @@ body {
     background-repeat: no-repeat;
     width: 40%;
 }
+.img img {
+    display: flex;
+    justify-content: flex-end;
+}
