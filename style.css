@@ -29,8 +29,3 @@ body {
     justify-content: flex-end;
     align-self: flex-end;
 }
-img {
-    display: flex;
-    justify-content: flex-end;
-    align-self: flex-end;
-}
