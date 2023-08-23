@@ -39,6 +39,9 @@ p.head {
     font-weight: 20px;
     line-height: 30px;
 }
+p.sub {
+    font-weight: 700;
+}
 .right {
     width: 55%;
     padding-top: 30px;
