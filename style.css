@@ -78,7 +78,7 @@ form {
     font-size: 18px;
     font-weight: 700;
     line-height: 23.99px;
-    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .fname input {
     border: 1px solid black;
