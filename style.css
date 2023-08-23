@@ -5,6 +5,7 @@
 body {
     background-color: whitesmoke;
     position: relative;
+    display: flex;
 }
 .container {
     background-color: white;
