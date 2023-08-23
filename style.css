@@ -64,6 +64,7 @@ p.sub {
 .name {
     display: flex;
     margin-top: 20px;
+    gap: 1rem;
 }
 .fname {
     width: 45%;
